@@ -30,7 +30,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Icons copied from https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges -->
