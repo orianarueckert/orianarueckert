@@ -1,7 +1,7 @@
 ## Hi, I'm Oriana! 
 👩‍💻 Level 3 Computer Science Co-op Student @ McMaster University  <br/>
 💼 Currently working on integrating Phreeqc database generation into the [PyGCC](https://pygcc.readthedocs.io/en/latest/index.html) tool as a Research Assistant in the Civil Engineering Department at McMaster University  <br/>
-🌱 Currently learning about web development with HTML, CSS, and JavaScript  <br/>
+🌱 Currently learning about web development with HTML, CSS, and JavaScript and user-centered design  <br/>
 🎯 Seeking co-op opportunities for 2026  <br/>
 ⛺ Outside of work, I love to spend time outdoors, sing in choir and I'm currently learning to crochet!  <br/>
 
