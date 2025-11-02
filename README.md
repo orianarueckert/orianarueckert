@@ -1,9 +1,9 @@
 ## Hi, I'm Oriana! 
 👩‍💻 Level 3 Computer Science Co-op Student @ McMaster University  <br/>
 💼 Most recenetly, I completed a co-op with my main focus being integrating Phreeqc database generation into the [PyGCC](https://pygcc.readthedocs.io/en/latest/index.html) tool as a Research Assistant in the Civil Engineering Department at McMaster University  <br/>
-🌱 Currently learning about web development with HTML, CSS, and JavaScript and user-centered design  <br/>
+🌱 Currently working with MacAI on DeepFakeDetector - an AI powered system to detect AI-generated images (see the project here: [DeepFakeDetector](https://github.com/McMasterAI-Society/DeepFakeDetector))<br/>
 🎯 Seeking co-op opportunities for 2026  <br/>
-⛺ Outside of work, I love to spend time outdoors, sing in choir and I'm currently learning to crochet!  <br/>
+⛺ Outside of work, I love to spend time outside, sing in choir and workout!  <br/>
 
 ## My Skills!
 ### Languages: 
